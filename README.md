@@ -22,6 +22,9 @@ A React application that calculates and displays customer reward points based on
 - [Future Enhancements](#future-enhancements)
 
 ---
+<img width="3360" height="2100" alt="Screenshot 2025-11-25 at 12 00 44 PM" src="https://github.com/user-attachments/assets/d974fcfd-99d7-4380-886f-b42ee926cd1b" />
+
+<img width="3354" height="1842" alt="Screenshot 2025-11-25 at 12 00 54 PM" src="https://github.com/user-attachments/assets/0a0d9655-f790-4418-a423-2c8e25b0bcdb" />
 
 ## Overview
 
