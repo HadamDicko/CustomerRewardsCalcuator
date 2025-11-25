@@ -393,7 +393,7 @@ If this were a production application, I would consider:
 
 ---
 
-## 👨‍💻 About the Developer
+## About Me
 
 **Hadam Dicko**  
 Computer Science Student | Army Reserve First-Line Leader  
