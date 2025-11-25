@@ -5,22 +5,6 @@ A React application that calculates and displays customer reward points based on
 **Developed by:** Hadam Dicko  
 **For:** Charter Team Application  
 **Date:** November 2024
-
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Business Requirements](#business-requirements)
-- [Technical Implementation](#technical-implementation)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [Running the Application](#running-the-application)
-- [Key Features](#key-features)
-- [Design Decisions](#design-decisions)
-- [Testing Approach](#testing-approach)
-- [Future Enhancements](#future-enhancements)
-
 ---
 <img width="3360" height="2100" alt="Screenshot 2025-11-25 at 12 00 44 PM" src="https://github.com/user-attachments/assets/d974fcfd-99d7-4380-886f-b42ee926cd1b" />
 
