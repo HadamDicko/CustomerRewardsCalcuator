@@ -120,7 +120,7 @@ App
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <repo-url>
    cd rewards-calculator
    ```
 
@@ -221,28 +221,7 @@ The mock dataset (`mockData.js`) includes **30 transactions** across **6 custome
 - **Accessibility:** Semantic HTML, proper contrast ratios
 - **Print-Friendly:** CSS print styles for reports
 
-### 5. Code Quality
-
-- **Modular Architecture:** Separation of concerns (data, logic, UI, services)
-- **Comprehensive Comments:** Every file includes purpose documentation
-- **Reusable Functions:** DRY principles throughout
-- **Error Handling:** Try-catch blocks in async operations
-- **Consistent Naming:** Clear, descriptive variable and function names
-
 ---
-
-## Design Decisions
-
-### Why Pure CSS Over a Framework?
-
-**Decision:** Use vanilla CSS with CSS Variables instead of Tailwind/Material-UI
-
-**Rationale:**
-- Demonstrates understanding of CSS fundamentals
-- No external dependencies beyond React
-- Full control over styling without learning curve
-- Lightweight bundle size
-- Shows ability to create professional UIs from scratch
 
 ### Why No Redux?
 
